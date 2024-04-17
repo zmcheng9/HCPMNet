@@ -1,4 +1,4 @@
-# Boosting FSMIS with High-Confidence Prior Mask
+# FSMIS with High-Confidence Prior Mask
 
 
 ### Abstract
